@@ -1,0 +1,15 @@
+D:\C#camp\KampIntro\GenericsIntro\bin\Debug\net6.0\GenericsIntro.exe
+D:\C#camp\KampIntro\GenericsIntro\bin\Debug\net6.0\GenericsIntro.deps.json
+D:\C#camp\KampIntro\GenericsIntro\bin\Debug\net6.0\GenericsIntro.runtimeconfig.json
+D:\C#camp\KampIntro\GenericsIntro\bin\Debug\net6.0\GenericsIntro.dll
+D:\C#camp\KampIntro\GenericsIntro\bin\Debug\net6.0\ref\GenericsIntro.dll
+D:\C#camp\KampIntro\GenericsIntro\bin\Debug\net6.0\GenericsIntro.pdb
+D:\C#camp\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.csproj.AssemblyReference.cache
+D:\C#camp\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#camp\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.AssemblyInfoInputs.cache
+D:\C#camp\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.AssemblyInfo.cs
+D:\C#camp\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.csproj.CoreCompileInputs.cache
+D:\C#camp\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.dll
+D:\C#camp\KampIntro\GenericsIntro\obj\Debug\net6.0\ref\GenericsIntro.dll
+D:\C#camp\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.pdb
+D:\C#camp\KampIntro\GenericsIntro\obj\Debug\net6.0\GenericsIntro.genruntimeconfig.cache

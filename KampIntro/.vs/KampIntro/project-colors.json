@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4889b612-fb3c-4e3f-9751-e2a585079a09": {
+      "ProjectGuid": "4889b612-fb3c-4e3f-9751-e2a585079a09",
+      "DisplayName": "KampIntro",
+      "ColorIndex": 0
+    },
+    "01cb0f76-341f-4f58-9e08-7db6dc7a2e0e": {
+      "ProjectGuid": "01cb0f76-341f-4f58-9e08-7db6dc7a2e0e",
+      "DisplayName": "Donguler",
+      "ColorIndex": 1
+    },
+    "021a9e31-a82b-4f8d-b84d-96fb4a0e6fe7": {
+      "ProjectGuid": "021a9e31-a82b-4f8d-b84d-96fb4a0e6fe7",
+      "DisplayName": "ClassIntro",
+      "ColorIndex": 2
+    },
+    "dec86dc3-abb4-4004-8cfc-26d850c52699": {
+      "ProjectGuid": "dec86dc3-abb4-4004-8cfc-26d850c52699",
+      "DisplayName": "Metotlar",
+      "ColorIndex": 3
+    },
+    "472c922e-cfdd-41a7-bf8a-e9f0f2307f4f": {
+      "ProjectGuid": "472c922e-cfdd-41a7-bf8a-e9f0f2307f4f",
+      "DisplayName": "Matematik",
+      "ColorIndex": 4
+    },
+    "f67c360d-872a-46d3-9751-9c3cf6d3edbf": {
+      "ProjectGuid": "f67c360d-872a-46d3-9751-9c3cf6d3edbf",
+      "DisplayName": "DegerVeReferansTipler",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c4ee31da-090a-4b9f-ad15-845de030a818": {
+      "ProjectGuid": "c4ee31da-090a-4b9f-ad15-845de030a818",
+      "DisplayName": "OOP1",
+      "ColorIndex": 6
+    },
+    "4419e6fc-26a6-4c87-a194-3301657bd12d": {
+      "ProjectGuid": "4419e6fc-26a6-4c87-a194-3301657bd12d",
+      "DisplayName": "Koleksiyonlar",
+      "ColorIndex": 7
+    },
+    "d0773ff3-5a94-48f4-89e6-41d2b0e51eca": {
+      "ProjectGuid": "d0773ff3-5a94-48f4-89e6-41d2b0e51eca",
+      "DisplayName": "GenericsIntro",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

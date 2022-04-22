@@ -1,0 +1,15 @@
+C:\C#camp\Day2Homework6\Day2Homework6\bin\Debug\net6.0\Day2Homework6.exe
+C:\C#camp\Day2Homework6\Day2Homework6\bin\Debug\net6.0\Day2Homework6.deps.json
+C:\C#camp\Day2Homework6\Day2Homework6\bin\Debug\net6.0\Day2Homework6.runtimeconfig.json
+C:\C#camp\Day2Homework6\Day2Homework6\bin\Debug\net6.0\Day2Homework6.dll
+C:\C#camp\Day2Homework6\Day2Homework6\bin\Debug\net6.0\ref\Day2Homework6.dll
+C:\C#camp\Day2Homework6\Day2Homework6\bin\Debug\net6.0\Day2Homework6.pdb
+C:\C#camp\Day2Homework6\Day2Homework6\obj\Debug\net6.0\Day2Homework6.csproj.AssemblyReference.cache
+C:\C#camp\Day2Homework6\Day2Homework6\obj\Debug\net6.0\Day2Homework6.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#camp\Day2Homework6\Day2Homework6\obj\Debug\net6.0\Day2Homework6.AssemblyInfoInputs.cache
+C:\C#camp\Day2Homework6\Day2Homework6\obj\Debug\net6.0\Day2Homework6.AssemblyInfo.cs
+C:\C#camp\Day2Homework6\Day2Homework6\obj\Debug\net6.0\Day2Homework6.csproj.CoreCompileInputs.cache
+C:\C#camp\Day2Homework6\Day2Homework6\obj\Debug\net6.0\Day2Homework6.dll
+C:\C#camp\Day2Homework6\Day2Homework6\obj\Debug\net6.0\ref\Day2Homework6.dll
+C:\C#camp\Day2Homework6\Day2Homework6\obj\Debug\net6.0\Day2Homework6.pdb
+C:\C#camp\Day2Homework6\Day2Homework6\obj\Debug\net6.0\Day2Homework6.genruntimeconfig.cache

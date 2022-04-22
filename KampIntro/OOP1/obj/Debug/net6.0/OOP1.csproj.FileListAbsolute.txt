@@ -1,0 +1,14 @@
+D:\C#camp\KampIntro\OOP1\bin\Debug\net6.0\OOP1.exe
+D:\C#camp\KampIntro\OOP1\bin\Debug\net6.0\OOP1.deps.json
+D:\C#camp\KampIntro\OOP1\bin\Debug\net6.0\OOP1.runtimeconfig.json
+D:\C#camp\KampIntro\OOP1\bin\Debug\net6.0\OOP1.dll
+D:\C#camp\KampIntro\OOP1\bin\Debug\net6.0\ref\OOP1.dll
+D:\C#camp\KampIntro\OOP1\bin\Debug\net6.0\OOP1.pdb
+D:\C#camp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#camp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfoInputs.cache
+D:\C#camp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfo.cs
+D:\C#camp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.csproj.CoreCompileInputs.cache
+D:\C#camp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.dll
+D:\C#camp\KampIntro\OOP1\obj\Debug\net6.0\ref\OOP1.dll
+D:\C#camp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.pdb
+D:\C#camp\KampIntro\OOP1\obj\Debug\net6.0\OOP1.genruntimeconfig.cache

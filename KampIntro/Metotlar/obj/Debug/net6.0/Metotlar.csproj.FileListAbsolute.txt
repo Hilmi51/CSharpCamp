@@ -1,0 +1,15 @@
+C:\C#camp\KampIntro\Metotlar\bin\Debug\net6.0\Metotlar.exe
+C:\C#camp\KampIntro\Metotlar\bin\Debug\net6.0\Metotlar.deps.json
+C:\C#camp\KampIntro\Metotlar\bin\Debug\net6.0\Metotlar.runtimeconfig.json
+C:\C#camp\KampIntro\Metotlar\bin\Debug\net6.0\Metotlar.dll
+C:\C#camp\KampIntro\Metotlar\bin\Debug\net6.0\ref\Metotlar.dll
+C:\C#camp\KampIntro\Metotlar\bin\Debug\net6.0\Metotlar.pdb
+C:\C#camp\KampIntro\Metotlar\obj\Debug\net6.0\Metotlar.csproj.AssemblyReference.cache
+C:\C#camp\KampIntro\Metotlar\obj\Debug\net6.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#camp\KampIntro\Metotlar\obj\Debug\net6.0\Metotlar.AssemblyInfoInputs.cache
+C:\C#camp\KampIntro\Metotlar\obj\Debug\net6.0\Metotlar.AssemblyInfo.cs
+C:\C#camp\KampIntro\Metotlar\obj\Debug\net6.0\Metotlar.csproj.CoreCompileInputs.cache
+C:\C#camp\KampIntro\Metotlar\obj\Debug\net6.0\Metotlar.dll
+C:\C#camp\KampIntro\Metotlar\obj\Debug\net6.0\ref\Metotlar.dll
+C:\C#camp\KampIntro\Metotlar\obj\Debug\net6.0\Metotlar.pdb
+C:\C#camp\KampIntro\Metotlar\obj\Debug\net6.0\Metotlar.genruntimeconfig.cache
